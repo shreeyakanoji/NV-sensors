@@ -1,0 +1,9 @@
+numpy
+scipy
+matplotlib
+scikit-learn
+scikit-image
+streamlit
+plotly
+pillow
+nibabel
