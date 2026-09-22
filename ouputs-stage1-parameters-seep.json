@@ -1,0 +1,32 @@
+{
+  "physics_validation": {
+    "giant_axon_current_uA": 0.8999999999999999,
+    "mammalian_current_nA": 3.0,
+    "independent_literature_check": {
+      "predicted_pT": 29.268292682926838,
+      "literature_pT": 36.0,
+      "distance_um": 20.5,
+      "agreement_pct": 81.3008130081301
+    }
+  },
+  "detection_results": {
+    "Giant axon @ 500um": {
+      "standoff_um": 500.0,
+      "single_sensor_snr": 359.4849383319291,
+      "matched_filter_detection_rate_pct": 100.0,
+      "false_positive_rate_pct": 5.0
+    },
+    "Mammalian @ 500um (hard case)": {
+      "standoff_um": 500.0,
+      "single_sensor_snr": 1.198283127773097,
+      "matched_filter_detection_rate_pct": 100.0,
+      "false_positive_rate_pct": 5.0
+    },
+    "Mammalian @ 200um (closer)": {
+      "standoff_um": 200.0,
+      "single_sensor_snr": 2.9957078194327424,
+      "matched_filter_detection_rate_pct": 100.0,
+      "false_positive_rate_pct": 5.0
+    }
+  }
+}
